@@ -1,0 +1,32 @@
+.error_page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;  
+  text-align: center;
+  }
+   p {
+                width: 450px;
+                color: #999999;
+                font-size: 14px;
+                line-height: 1.5;
+                text-align: center;
+}
+    
+     
+   .btn{
+    
+           background-color:#00B207;
+            padding: 16px 32px;
+                font-size: 16px;
+                border: none;
+                color: #FFFFFF;
+                font-weight: 600;
+                width: fit-content;
+                display: flex;
+                gap: 14px;
+                border-radius: 50px;
+                text-align: center;
+            margin-top: 10px;
+              margin-left: 150px;
+   }
