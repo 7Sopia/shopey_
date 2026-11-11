@@ -19,16 +19,28 @@ h1{
     padding: 14px 24px;
     display: flex;
     width: 400px;
+<<<<<<< HEAD
  border: 1px solid #E6E6E6;
  border-right: none;
  border-radius: 15px;
 margin-bottom: 16px;
+=======
+   border: 1px solid #E6E6E6;
+   border-right: none;
+ border-radius: 15px;
+ margin-bottom: 16px;
+>>>>>>> 1bf1fb8a621f05cef992d7d55e727f09e87ad3b9
 
 
 }
             
+<<<<<<< HEAD
                 .btn2{
                     flex-direction: column;
+=======
+ .btn2{
+   flex-direction: column;
+>>>>>>> 1bf1fb8a621f05cef992d7d55e727f09e87ad3b9
                     width: 400px;
                     color: white;
                     font-weight: 600;
@@ -53,6 +65,14 @@ margin-bottom: 16px;
                 padding-right: 100px;
                   gap: 20px;
                   margin-bottom:20px;
+<<<<<<< HEAD
+=======
+                  margin-top: 20px;
+
+                  .check{
+                     margin-bottom: 10px;
+                  }
+>>>>>>> 1bf1fb8a621f05cef992d7d55e727f09e87ad3b9
                  
              }
              a{
@@ -66,13 +86,21 @@ margin-bottom: 16px;
                padding-left: 100px;
                margin-top: 24px;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1bf1fb8a621f05cef992d7d55e727f09e87ad3b9
             }
            
             .name {
             margin-left:-75px;
+<<<<<<< HEAD
             }
 
        
                 
         
     
+=======
+            }
+>>>>>>> 1bf1fb8a621f05cef992d7d55e727f09e87ad3b9
